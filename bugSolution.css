@@ -1,0 +1,15 @@
+/* bugSolution.css */
+
+/* ... other styles ... */
+
+#myElement {
+  z-index: 10; /* Ensure this element is on top */
+  /* ... other styles ... */
+}
+
+#myElement:hover {
+  background-color: #f00; /* Example style change */
+  cursor: pointer;
+}
+
+/* ... other styles ... */
